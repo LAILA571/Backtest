@@ -5,7 +5,7 @@ Traffic Light (Bâle) · Kupiec (POF) · Christoffersen (indépendance &
 couverture conditionnelle) · Exigence en fonds propres
 =====================================================================
 
-Veuillez entrer le fichier de type "Forex_Backtest.xlsx" 
+Veuillez entrer le fichier de type "Forex_Backtesting.xlsx" 
 
 Règle de violation :  I_t = 1  si  pnl_hypothétique_t < VAR_{t-1}  sinon 0
 
