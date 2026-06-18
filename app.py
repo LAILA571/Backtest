@@ -5,9 +5,7 @@ Traffic Light (Bâle) · Kupiec (POF) · Christoffersen (indépendance &
 couverture conditionnelle) · Exigence en fonds propres
 =====================================================================
 
-Conçue pour le fichier de type "Classeur2.xlsx" avec les colonnes :
-    value_date | hypothetical_value | previous_value |
-    pnl_hypothétique_t | VAR_t-1
+Veuillez entrer le fichier de type "Forex_Backtest.xlsx" 
 
 Règle de violation :  I_t = 1  si  pnl_hypothétique_t < VAR_{t-1}  sinon 0
 
